@@ -14,7 +14,6 @@ function hasTargetSum(array, target) {
   }
   return false;
 }
-
 /* 
   Write the Big O time complexity of your function here
 */
